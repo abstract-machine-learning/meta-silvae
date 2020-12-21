@@ -1,0 +1,8 @@
+doc/html
+*.o
+src/meta-silvae
+src/tree-info
+src/tree-similarity
+src/forest-tools
+*.swp
+bin
